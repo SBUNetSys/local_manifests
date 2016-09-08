@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote name="origin" fetch="https://github.com/" />
+    <remove-project name="platform/frameworks/base" />
+    <project path="frameworks/base" name="SBUNetSys/platform_frameworks_base" remote="origin" />
+</manifest>
